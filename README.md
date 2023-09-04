@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Alasakani Prem Rakesh currently pursuing my masters in computer science at Northwest missouri state university. Right now open to learn any new technology and add to my armory.
 <!--
 **premrakesh/premrakesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
